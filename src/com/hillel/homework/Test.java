@@ -1,12 +1,10 @@
 package com.hillel.homework;
 
-public class Test
-{
+public class Test {
     public static void main(String[] args) {
-        long myLong = 4843632;
-        System.out.println(myLong);
+        float myFloat = 48.4363F;
+        System.out.println(myFloat);
 
-        int myInt = 2636101;
-    System.out.println(myInt);
+        double myDouble = 26.36101;
+        System.out.println(myDouble);
     }
-}
