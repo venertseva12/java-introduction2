@@ -11,7 +11,5 @@ public class Test3 {
         double result = Math.abs(a - b) / Math.pow(a + b, 3) - Math.sqrt(c);
 
         System.out.println("result=" + result);
-
-
     }
 }
